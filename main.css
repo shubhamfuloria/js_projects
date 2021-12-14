@@ -1,0 +1,10 @@
+main{
+  width: 80%;
+  border: 5px solid rgb(73, 71, 71);
+  margin: auto;
+  height: 70vh;
+  margin-top: 1rem;
+  min-height: 200px;
+  display: flex;
+  justify-content: center;
+}

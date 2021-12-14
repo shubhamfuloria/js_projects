@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: white;
+}
+
+header {
+  padding: 1rem;
+  background: rgb(73, 71, 71);
+  display: flex;
+}
+.flex {
+  flex-basis: 100%;
+}
+.heading_container{
+  display: flex;
+  justify-content: center;
+}
+.input_container{
+  display: flex;
+  justify-content: flex-end;
+}
+input {
+  outline: none;
+  color: rgb(73, 71, 71);
+  height: 100%;
+  font-family: monospace;
+  border: none;
+  border-radius: 2%;
+  padding: 0.4rem;
+}
